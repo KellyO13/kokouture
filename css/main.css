@@ -1,0 +1,57 @@
+#brand {
+	color: #008000;
+	font-size: 2.50rem;
+}
+
+#nav {
+	position: relative;
+}
+
+#navbarNavDropdown {
+	position: absolute;
+	right: 0;
+}
+
+#carouselExampleIndicators, #homepage, #contactpage, #shoppage {
+	background-color: #c0c0c0;
+}
+
+.carousel-inner {
+	margin: 0 auto;
+	height: 800px;
+	width: 800px;
+}
+
+/*carousel-item {
+	margin-top: 20px;
+}*/
+
+#imgrotate {
+	transform: rotate(90deg);
+}
+
+footer{
+	display: block;
+	background-color: #000000;
+	color: #008000;
+	height: 150px;
+	position: relative;
+}
+
+.foot {
+	position: absolute;
+	right: 40%;
+	margin-top: 40px;
+	text-align: center;
+}
+
+#about {
+	margin: 50px 75px;
+}
+
+#aboutInner {
+	margin: 0 50px;
+	font-weight: bold;
+}
+
+
